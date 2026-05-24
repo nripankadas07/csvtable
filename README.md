@@ -29,7 +29,7 @@ tests,passing,156
 ## Install
 
 ```bash
-pip install csvtable
+python -m pip install -e .
 ```
 
 Requires Python 3.10+. No third-party runtime dependencies.
